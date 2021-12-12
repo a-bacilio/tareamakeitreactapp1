@@ -38,7 +38,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://a-bacilio.github.io/tareamakeitreactapp1/)
+- Live Site URL: [Aqui](https://a-bacilio.github.io/tareamakeitreactapp1/)
 
 ## My process
 -I build components with sytyled components, firts build the cards then use them and then the card holders to give it structure.
