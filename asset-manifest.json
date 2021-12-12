@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/tareamakeitreactapp1/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/tareamakeitreactapp1/static/js/main.b145ec10.chunk.js",
-    "main.js.map": "/tareamakeitreactapp1/static/js/main.b145ec10.chunk.js.map",
+    "main.js": "/tareamakeitreactapp1/static/js/main.07a53cd0.chunk.js",
+    "main.js.map": "/tareamakeitreactapp1/static/js/main.07a53cd0.chunk.js.map",
     "runtime-main.js": "/tareamakeitreactapp1/static/js/runtime-main.2a1f8ad2.js",
     "runtime-main.js.map": "/tareamakeitreactapp1/static/js/runtime-main.2a1f8ad2.js.map",
-    "static/js/2.0b5c5319.chunk.js": "/tareamakeitreactapp1/static/js/2.0b5c5319.chunk.js",
-    "static/js/2.0b5c5319.chunk.js.map": "/tareamakeitreactapp1/static/js/2.0b5c5319.chunk.js.map",
+    "static/js/2.0e9d4855.chunk.js": "/tareamakeitreactapp1/static/js/2.0e9d4855.chunk.js",
+    "static/js/2.0e9d4855.chunk.js.map": "/tareamakeitreactapp1/static/js/2.0e9d4855.chunk.js.map",
     "index.html": "/tareamakeitreactapp1/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/tareamakeitreactapp1/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.0b5c5319.chunk.js.LICENSE.txt": "/tareamakeitreactapp1/static/js/2.0b5c5319.chunk.js.LICENSE.txt",
+    "static/js/2.0e9d4855.chunk.js.LICENSE.txt": "/tareamakeitreactapp1/static/js/2.0e9d4855.chunk.js.LICENSE.txt",
     "static/media/BarlowSemiCondensed-Medium.7283b608.ttf": "/tareamakeitreactapp1/static/media/BarlowSemiCondensed-Medium.7283b608.ttf",
     "static/media/BarlowSemiCondensed-SemiBold.965eb934.ttf": "/tareamakeitreactapp1/static/media/BarlowSemiCondensed-SemiBold.965eb934.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.2a1f8ad2.js",
-    "static/js/2.0b5c5319.chunk.js",
+    "static/js/2.0e9d4855.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.b145ec10.chunk.js"
+    "static/js/main.07a53cd0.chunk.js"
   ]
 }
