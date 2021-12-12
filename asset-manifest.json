@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/tareamakeitreactapp1/static/css/main.a617e044.chunk.css",
-    "main.js": "/tareamakeitreactapp1/static/js/main.a37c1f99.chunk.js",
-    "main.js.map": "/tareamakeitreactapp1/static/js/main.a37c1f99.chunk.js.map",
-    "runtime-main.js": "/tareamakeitreactapp1/static/js/runtime-main.6cb29563.js",
-    "runtime-main.js.map": "/tareamakeitreactapp1/static/js/runtime-main.6cb29563.js.map",
-    "static/js/2.17183b8a.chunk.js": "/tareamakeitreactapp1/static/js/2.17183b8a.chunk.js",
-    "static/js/2.17183b8a.chunk.js.map": "/tareamakeitreactapp1/static/js/2.17183b8a.chunk.js.map",
-    "static/js/3.f442b96e.chunk.js": "/tareamakeitreactapp1/static/js/3.f442b96e.chunk.js",
-    "static/js/3.f442b96e.chunk.js.map": "/tareamakeitreactapp1/static/js/3.f442b96e.chunk.js.map",
+    "main.css": "/tareamakeitreactapp1/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/tareamakeitreactapp1/static/js/main.b145ec10.chunk.js",
+    "main.js.map": "/tareamakeitreactapp1/static/js/main.b145ec10.chunk.js.map",
+    "runtime-main.js": "/tareamakeitreactapp1/static/js/runtime-main.2a1f8ad2.js",
+    "runtime-main.js.map": "/tareamakeitreactapp1/static/js/runtime-main.2a1f8ad2.js.map",
+    "static/js/2.0b5c5319.chunk.js": "/tareamakeitreactapp1/static/js/2.0b5c5319.chunk.js",
+    "static/js/2.0b5c5319.chunk.js.map": "/tareamakeitreactapp1/static/js/2.0b5c5319.chunk.js.map",
     "index.html": "/tareamakeitreactapp1/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/tareamakeitreactapp1/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.17183b8a.chunk.js.LICENSE.txt": "/tareamakeitreactapp1/static/js/2.17183b8a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/tareamakeitreactapp1/static/media/logo.6ce24c58.svg"
+    "static/css/main.6dea0f05.chunk.css.map": "/tareamakeitreactapp1/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.0b5c5319.chunk.js.LICENSE.txt": "/tareamakeitreactapp1/static/js/2.0b5c5319.chunk.js.LICENSE.txt",
+    "static/media/BarlowSemiCondensed-Medium.7283b608.ttf": "/tareamakeitreactapp1/static/media/BarlowSemiCondensed-Medium.7283b608.ttf",
+    "static/media/BarlowSemiCondensed-SemiBold.965eb934.ttf": "/tareamakeitreactapp1/static/media/BarlowSemiCondensed-SemiBold.965eb934.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.6cb29563.js",
-    "static/js/2.17183b8a.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.a37c1f99.chunk.js"
+    "static/js/runtime-main.2a1f8ad2.js",
+    "static/js/2.0b5c5319.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b145ec10.chunk.js"
   ]
 }
